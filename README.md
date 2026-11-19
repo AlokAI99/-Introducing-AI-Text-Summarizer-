@@ -2,7 +2,7 @@
 Built a beginner-friendly AI application that converts long text into concise, easy-to-read summaries.
 
 
- Introducing AI Text Summarizer!
+ Introducing AI Text Summarizer
 
 Built a beginner-friendly AI application that converts long text into concise, easy-to-read summaries.
 
